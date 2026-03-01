@@ -1,5 +1,9 @@
 Hello guys, we are learning devops again. 
 please support us.
+<<<<<<< HEAD
 
 Hit like button, share and suscribe our page
 new change 
+=======
+Hit like button
+>>>>>>> parent of af7d98b (First version 1-PR)
